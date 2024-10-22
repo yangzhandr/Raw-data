@@ -1,0 +1,7 @@
+"","Features","p.value","muti_cox_dat.HR","muti_cox_dat.lower.95","muti_cox_dat.upper.95"
+"Age","Age","0.001",2.178,1.357,3.494
+"pathologic_T","pathologic_T","0.06",3.966,0.944,16.658
+"pathologic_N","pathologic_N","0.01",0.263,0.095,0.726
+"pathologic_M","pathologic_M","0.001",2.573,1.466,4.516
+"pathologic_stage","pathologic_stage","0.002",6.463,2.026,20.619
+"RiskScore","RiskScore","<0.001",2.004,1.407,2.855

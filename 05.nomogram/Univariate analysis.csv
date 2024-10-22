@@ -1,0 +1,8 @@
+"","Features","p.value","sig_cox_dat.HR","sig_cox_dat.lower.95","sig_cox_dat.upper.95"
+"Age","Age","0.032",1.566,1.04,2.358
+"Gender","Gender","0.412",1.185,0.79,1.775
+"pathologic_T","pathologic_T","0.003",3.949,1.602,9.735
+"pathologic_N","pathologic_N","<0.001",2.858,1.884,4.334
+"pathologic_M","pathologic_M","<0.001",4.905,3.104,7.749
+"pathologic_stage","pathologic_stage","<0.001",3.253,2.101,5.037
+"RiskScore","RiskScore","<0.001",2.718,1.988,3.716
